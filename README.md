@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there! 👋 My name is Jun (James) Han. ##
+
+Shown below is a repostiory of a few of my Data Analysis projects. 
+
+
+
 
 <!--
 **junjameshan/junjameshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
