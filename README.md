@@ -1,21 +1,21 @@
-## Hello there! 👋 My name is Jun (James) Han. ##
+## Hello there! 👋 
 
-Shown below is a repostiory of a few of my Data Analysis projects. 
+My name is James (Jun) Han and I am a Data Analytics professional with a background working in Consulting, Product Management, Engineering and even managing a small business! I am excited and passionate about the multitude of ways that data can help unlock and further drive insights to critical problems. 
 
+### 📖 Projects 
 
+*
 
+### 🔍 Skillset
 
-<!--
-**junjameshan/junjameshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Data analysis, transformation, preparation and exploration 
+* Database design, modelling and analyzing
+* Dashboard developmeng and reporting 
 
-Here are some ideas to get you started:
+### 🧰 Technical Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Databases: SQL (MySQL, Google BigQuery, SQLite), Excel, Google Sheets, Smartsheets 
+* Python: NumPy, Pandas, SkLearn
+* Data Visualization: Tableau, Power BI, Looker, Matplotlib, Seaborn
+* Web Analytics: Google Analytics, HubSpot Analytics, Shopify, Klayvio, Qualtrics 
+* Project Management Tools: Asana, Airtable 
