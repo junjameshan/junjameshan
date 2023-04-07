@@ -12,7 +12,7 @@ My name is James (Jun) Han and I am a Data Analytics professional with a backgro
 
 * Data analysis, transformation, preparation and exploration 
 * Database design, modelling and analyzing
-* Dashboard developmeng and reporting 
+* Dashboard development and reporting 
 
 ### 🧰 Technical Tools 
 
