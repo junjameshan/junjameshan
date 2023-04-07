@@ -6,6 +6,7 @@ My name is James (Jun) Han and I am a Data Analytics professional with a backgro
 
 * [Hybrid Vehicles Pricing](https://github.com/junjameshan/hybrid-vehicles)
 * [IMDB Top 100 Movies of All Time](https://github.com/junjameshan/imdb_top_100_movies)
+* [Case Study: Pricing for Toledo Lyft Drivers](https://github.com/junjameshan/toledo_lyft_drivers_pricing)
 
 ### 🔍 Skillset
 
