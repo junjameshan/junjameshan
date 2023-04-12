@@ -22,3 +22,6 @@ My name is James (Jun) Han and I am a Data Analytics professional with a backgro
 * Data Visualization: Tableau, Power BI, Looker, Matplotlib, Seaborn
 * Web Analytics: Google Analytics, HubSpot Analytics, Shopify, Klayvio, Qualtrics 
 * Project Management Tools: Asana, Airtable 
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=junjameshan)
